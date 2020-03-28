@@ -1,2 +1,2 @@
-# creating-a-sling-Shot-C-28
-I learnt how to create a sling shot .
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
